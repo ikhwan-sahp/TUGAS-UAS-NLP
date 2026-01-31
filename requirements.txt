@@ -1,0 +1,6 @@
+
+pandas
+nltk
+Sastrawi
+scikit-learn
+matplotlib
