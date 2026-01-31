@@ -1,2 +1,0 @@
-# TUGAS-UAS-NLP
-Ikwan Sah Putra 24146013
